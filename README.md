@@ -20,5 +20,5 @@ I follow a strict **6-day engineering schedule** balancing deep conceptual learn
 If you want to discuss a local project in Jeddah, collaborate on an open-source tool, or hire me, feel free to reach out through any of these channels:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-banafea-a7237034a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdulrahmanba707@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanba707@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/966561656401)
