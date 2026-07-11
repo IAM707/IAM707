@@ -7,7 +7,7 @@ I am currently strengthening my software engineering fundamentals while building
 ## Technical Skills
 
 - **Frontend:** React, Next.js, TypeScript, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, REST APIs, Supabase
+- **Backend:**  REST APIs, Supabase
 - **Database:** PostgreSQL, SQL
 - **Tools:** Git, GitHub, VS Code
 
