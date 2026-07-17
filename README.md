@@ -1,32 +1,37 @@
-# Hi, I'm Abdulrahman 👋
+# Abdulrahman Banafea
 
-I am a third-year Software Engineering student based in Jeddah, Saudi Arabia, focused on full-stack web development with TypeScript, React, Next.js, Node.js, Supabase, and PostgreSQL.
+Third-year Software Engineering student based in Jeddah, Saudi Arabia. I build web applications with **React, Next.js, and TypeScript**, and I am currently developing **Habba** in public while strengthening my backend, database, and testing fundamentals.
 
-I am currently strengthening my software engineering fundamentals while building complete applications that demonstrate clean architecture, maintainable code, testing, documentation, and deployment.
-
-## Technical Skills
-
-- **Frontend:** React, Next.js, TypeScript, HTML, CSS, Tailwind CSS
-- **Backend:**  REST APIs, Supabase
-- **Database:** PostgreSQL, SQL
-- **Tools:** Git, GitHub, VS Code
+I am open to **software engineering internships** and collaborative web projects.
 
 ## Currently Building
 
-- A production-style full-stack application for a real business use case
-- An open-source project demonstrating authentication, database design, testing, and deployment
+### [Habba | هبّة](https://github.com/IAM707/Habba)
 
-## Previous Experience
+An Arabic-first restaurant decision platform for Jeddah, designed to reduce decision fatigue by giving users a small set of situation-aware recommendations.
 
-- Co-founded and contributed to KREDK, an early-stage AI website builder based on a customized fork of the open-source  project
-- Developed TechShift, an Arabic informational website with protected content management using Supabase
+- **Status:** Early development
+- **Current focus:** Next.js App Router, TypeScript, RTL-first UI, and documented engineering decisions
+- **Repository:** [github.com/IAM707/Habba](https://github.com/IAM707/Habba)
 
+## Selected Work
 
+- **[TechShift](https://github.com/IAM707/TechShift-Showcase)** — A bilingual Arabic/English informational website built with React and Vite, with Supabase-backed content management. [Live site](https://techshift.click)
+- **[Habit Tracker](https://github.com/IAM707/Habit-Tracker)** — A learning project focused on React, TypeScript, reusable components, custom hooks, and browser persistence.
+- **[Weather App](https://github.com/IAM707/weather-app)** — A learning project focused on React, TypeScript, API data fetching, and user-facing loading and error states.
+- **KREDK** — Contributed to an early-stage AI website builder based on a customized open-source codebase, with work across localization, UI customization, feature testing, and infrastructure experiments.
 
-## 📬 Connect with Me
+## Current Toolkit
 
-If you want to discuss a local project in Jeddah, collaborate on an open-source tool, or hire me, feel free to reach out through any of these channels:
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
+- **Data and services:** Supabase, PostgreSQL, SQL
+- **Tools:** Git, GitHub, VS Code
+- **Currently learning:** Server-side development, database design, testing, and Row Level Security
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-banafea-a7237034a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanba707@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/966561656401)
+## How I Work
+
+I build in small, reviewable steps: define the behavior, implement one focused change, inspect the diff, test it, document what matters, and make sure I can explain the result.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/abdulrahman-banafea-a7237034a/) · [Email](mailto:abdulrahmanba707@gmail.com)
