@@ -24,7 +24,7 @@ An Arabic-first restaurant decision platform for Jeddah, designed to reduce deci
 ## Current Toolkit
 
 - **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
-- **Data and services:** Supabase, PostgreSQL, SQL
+- **Data and services:** Node.js, Supabase, PostgreSQL, SQL
 - **Tools:** Git, GitHub, VS Code
 - **Currently learning:** Server-side development, database design, testing, and Row Level Security
 
