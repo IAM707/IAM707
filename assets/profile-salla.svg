@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="214" viewBox="0 0 1200 214" role="img" aria-label="Currently at Salla: software engineering intern, collaborating to solve real merchant problems"><title>Currently at Salla: software engineering intern, collaborating to solve real merchant problems</title>
+<rect width="1200" height="214" rx="22" fill="#172129"/>
+<rect x="1" y="1" width="1198" height="212" rx="21" fill="none" stroke="#34434B"/>
+<rect x="0" y="0" width="6" height="214" fill="#C1F19B"/>
+<text x="42" y="38" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.1" fill="#C1F19B" >01 / REAL-WORLD ENGINEERING</text>
+<text x="42" y="91" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="44" font-weight="750" letter-spacing="-1.6" fill="#F3F5EF" >Salla</text>
+<text x="42" y="125" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="500" letter-spacing="0" fill="#D0D9D5" >Software Engineering Internship</text>
+<text x="42" y="159" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" letter-spacing="0" fill="#B6C7BF" >Collaborating with a team to investigate and solve merchant problems.</text>
+<rect x="42" y="174" width="228" height="22" rx="7" fill="#293B35" stroke="none" stroke-width="1"/>
+<text x="52" y="190" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="750" letter-spacing="1" fill="#C1F19B" >3 MONTHS COMPLETED · ONGOING</text>
+<line x1="654" y1="38" x2="654" y2="177" stroke="#35464D" stroke-width="1" />
+<text x="698" y="39" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#AFC3B9" >WORKING PRACTICE</text>
+<rect x="697" y="65" width="139" height="43" rx="9" fill="#24343B" stroke="#44565D" stroke-width="1"/>
+<text x="717" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="0" fill="#ECF0EC" >Investigate</text>
+<line x1="835" y1="86" x2="866" y2="86" stroke="#739381" stroke-width="2" /><path d="M858 80l9 6-9 6" stroke="#739381" stroke-width="2" fill="none"/>
+<rect x="872" y="65" width="123" height="43" rx="9" fill="#24343B" stroke="#44565D" stroke-width="1"/>
+<text x="892" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="0" fill="#ECF0EC" >Implement</text>
+<line x1="995" y1="86" x2="1027" y2="86" stroke="#739381" stroke-width="2" /><path d="M1019 80l9 6-9 6" stroke="#739381" stroke-width="2" fill="none"/>
+<rect x="1032" y="65" width="117" height="43" rx="9" fill="#243B34" stroke="#618570" stroke-width="1"/>
+<text x="1053" y="92" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650" letter-spacing="0" fill="#C1F19B" >Verify</text>
+<text x="699" y="150" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" letter-spacing="0" fill="#C9D5CF" >Problem solving · Team collaboration</text>
+<text x="699" y="177" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" letter-spacing="0" fill="#92AAA0" >Learning through production-facing work</text>
+</svg>
