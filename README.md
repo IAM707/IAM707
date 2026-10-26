@@ -1,122 +1,161 @@
-<!--
-  IAM707 / GitHub profile
-  Original SVG art is stored in assets/v3-*.
-  Responsive art is selected with picture/source media queries.
-  Skill icons: tandpfun/skill-icons. GitHub stats: anuraghazra/github-readme-stats.
-  Public activity widgets cannot show source code or details from private projects.
--->
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v3-hero-mobile.svg">
-  <img src="./assets/v3-hero.svg" alt="Abdulrahman Banafea — software engineering student and backend-focused developer based in Jeddah, Saudi Arabia" width="100%">
-</picture>
+<!-- GitHub profile: self-hosted visuals, licensed icon set, and private-project descriptions. -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulrahman-banafea-a7237034a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:abdulrahmanba707@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say_Hello-243343?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/IAM707"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-IAM707-243343?style=for-the-badge&logo=github&logoColor=white"></a>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/identity-mobile.svg">
+    <img src="./assets/identity.svg" alt="Abdulrahman Banafea — software engineering student and backend-focused developer based in Jeddah, Saudi Arabia" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
-  <strong>Backend engineering · Business problems · Thoughtful product experiences</strong>
+  <a href="https://www.linkedin.com/in/abdulrahman-banafea-a7237034a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdulrahmanba707@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-31343B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/IAM707"><img src="https://img.shields.io/badge/GitHub-IAM707-23272E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center"><sub>Engineering student | Salla software engineering intern | Independent builder</sub></p>
+<p align="center"><samp>Backend engineering &nbsp;·&nbsp; Product thinking &nbsp;·&nbsp; Building things that work</samp></p>
 
 ---
 
-### `01` &nbsp; About me
+### 👋 About Me
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v3-about-mobile.svg">
-  <img src="./assets/v3-about.svg" alt="Developer profile code illustration: backend-focused, based in Jeddah, building reliable software through domain modeling and testing" width="100%">
-</picture>
-
-I care about the **reason behind a technical decision**, not only whether the code runs. I'm building the habit of understanding systems, designing around real requirements, testing important behavior, and reviewing trade-offs.
-
-### `02` &nbsp; Experience & growth
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v3-journey-mobile.svg">
-  <img src="./assets/v3-journey.svg" alt="Current engineering work in 2026: ongoing Salla internship with three months completed, solving merchant problems with a team, and independently developing a private OMS with a senior review planned" width="100%">
-</picture>
-
-- **Salla · Software Engineering Intern** — Three months completed and continuing. Working with an engineering team on real problems affecting merchants.
-- **Independent engineering practice** — Building an Order Management System and planning a technical evaluation with a senior engineer. This is a personal development project, separate from employer systems.
-
-### `03` &nbsp; Selected work
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v3-projects-mobile.svg">
-  <img src="./assets/v3-projects.svg" alt="Two private projects in development: independent Laravel Order Management System; MAJRA Studio, an independent Saudi studio making websites and useful digital functionality" width="100%">
-</picture>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  <strong>Order Management System (OMS)</strong><br>
-  <sub>PRIVATE REPOSITORY · IN DEVELOPMENT</sub>
-  <p>A personal Laravel-based backend project for practicing relational data models, business rules, APIs, and automated tests. Building it independently and seeking senior technical feedback.</p>
-  <code>PHP</code> <code>Laravel</code> <code>PostgreSQL</code> <code>Pest</code>
+<table><tr>
+<td width="57%" valign="middle">
+<p>I'm <strong>Abdulrahman</strong>, a software engineering student and backend-focused developer in Jeddah, Saudi Arabia.</p>
+<p>I care about more than making code run. I want to understand the domain, solve real problems, and know how a system behaves when something goes wrong.</p>
+<ul>
+<li><strong>At Salla:</strong> working with an engineering team on real merchant problems.</li>
+<li><strong>Independently:</strong> building a Laravel Order Management System to practice backend engineering end to end.</li>
+<li><strong>Beyond backend:</strong> developing <strong>MAJRA Studio</strong>, a Saudi digital-studio project focused on business websites and useful web functionality.</li>
+</ul>
 </td>
-<td width="50%" valign="top">
-  <strong>MAJRA Studio</strong><br>
-  <sub>PRIVATE REPOSITORY · IN DEVELOPMENT</sub>
-  <p>An independent Saudi digital studio focused on bespoke business websites, content management, and useful website-connected functionality with Arabic-first design.</p>
-  <code>React</code> <code>TypeScript</code> <code>UI/UX</code>
-</td>
-</tr>
-</table>
+<td width="43%" valign="middle"><img src="./assets/developer-workspace.svg" alt="Illustration of a developer at a desk, editing Laravel code" width="100%" /></td>
+</tr></table>
 
-> Both repositories are private. The descriptions here are high-level; no proprietary employer code, internal information, or merchant data is shared.
+### 💼 Current Role & Experience
 
-### `04` &nbsp; Technical toolkit
+> **Software Engineering Intern — Salla**
+>
+> Three months completed; **continuing** with an engineering team to investigate and solve merchant problems. I'm learning how debugging, collaboration, implementation choices, and maintainability connect to actual business outcomes.
 
-<div align="center">
-  <p><strong>Backend & data</strong></p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,nodejs&theme=dark&perline=8" alt="PHP, Laravel, PostgreSQL, Node.js technology logos" />
-  <p><sub>PHP · Laravel · PostgreSQL · REST APIs · Eloquent ORM · SQL · Pest testing</sub></p>
-  <p><strong>Frontend & UI</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark&perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS technology logos" />
-  <p><sub>TypeScript · JavaScript · React · Next.js · Tailwind CSS</sub></p>
-  <p><strong>Tools & workflow</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,supabase&theme=dark&perline=8" alt="Git, GitHub, Postman, Visual Studio Code, Supabase technology logos" />
-  <p><sub>Git · Pull requests · Code review · Automated tests · API debugging</sub></p>
-</div>
+| Focus | What I'm doing |
+| :--- | :--- |
+| **Team engineering** | Collaborating on real merchant-facing problems at Salla |
+| **Backend development** | Practicing PHP, Laravel, relational modeling, API design, and testing |
+| **Engineering discipline** | Git branches, pull requests, automated tests, documentation, and technical feedback |
+| **Next milestone** | Continuing my OMS and seeking a senior engineer's technical review |
 
-### `05` &nbsp; How I approach engineering
+### 🧭 Engineering Journey
 
-```text
-Understand the problem
-        ↓
-Identify domain rules and failure cases
-        ↓
-Design a small, clear solution
-        ↓
-Implement + test
-        ↓
-Review, document, improve
+```mermaid
+flowchart LR
+    A["Salla internship<br/>3 months completed"] --> B["Engineering team<br/>Merchant problems"]
+    A --> C["Independent OMS<br/>Laravel backend"]
+    C -. planned .-> D["Senior engineer<br/>technical review"]
+    classDef active fill:#193741,color:#f4f7f7,stroke:#6998a2,stroke-width:1px;
+    classDef future fill:#302a23,color:#f4e9d7,stroke:#bd9a66,stroke-width:1px;
+    class A,B,C active;
+    class D future;
 ```
 
-<sub>I aim for software that is understandable, testable, and useful in practice. My current focus is deepening backend engineering fundamentals through real work and deliberate practice.</sub>
+<sub>Team work and independent OMS development are separate, ongoing tracks. The senior technical review is planned, not completed.</sub>
 
-### `06` &nbsp; GitHub activity
+### 🧩 Selected Work
+
+<table><tr>
+<td width="50%" valign="top">
+<h4>01 · Order Management System</h4>
+<p><code>PRIVATE</code> · <code>IN DEVELOPMENT</code></p>
+<p>An independent Laravel backend project to understand how business systems are modeled, implemented, and maintained.</p>
+<p><strong>Working on:</strong> domain models, orders, database constraints, feature tests, and system design.</p>
+<p><strong>Next:</strong> integrations, reliability, asynchronous work, and senior technical feedback.</p>
+<p><code>PHP</code> <code>Laravel</code> <code>PostgreSQL</code> <code>Pest</code></p>
+</td>
+<td width="50%" valign="top">
+<h4>02 · MAJRA Studio</h4>
+<p><code>PRIVATE</code> · <code>IN DEVELOPMENT</code></p>
+<p>A Saudi digital-studio project focused on distinctive yet practical websites for established businesses.</p>
+<p><strong>Focus:</strong> bespoke business websites, CMS, Arabic-first interfaces, and focused integrations.</p>
+<p><strong>Approach:</strong> thoughtful UI/UX supported by working, useful functionality.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Web Engineering</code></p>
+</td>
+</tr></table>
+
+> Both repositories are private. No employer code, merchant information, or internal business data is shared here.
+
+### 🛠 Tech Arsenal
+
+<details open>
+<summary><b>Backend &amp; Data</b> — PHP, Laravel, PostgreSQL, Node.js, Supabase</summary>
 
 <p align="center">
-  <a href="https://github.com/IAM707">
-    <img src="https://github-readme-stats.vercel.app/api?username=IAM707&show_icons=true&hide_border=true&bg_color=0D1721&title_color=75E6B3&text_color=CADBDD&icon_color=76CBE4&ring_color=75E6B3&rank_icon=github" alt="Live GitHub stats for IAM707's visible contributions" width="58%" />
-  </a>
+  <img src="./assets/skills/PHP-Dark.svg" width="46" height="46" alt="PHP" title="PHP" />
+  <img src="./assets/skills/Laravel-Dark.svg" width="46" height="46" alt="Laravel" title="Laravel" />
+  <img src="./assets/skills/PostgreSQL-Dark.svg" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="./assets/skills/NodeJS-Dark.svg" width="46" height="46" alt="NodeJS" title="NodeJS" />
+  <img src="./assets/skills/Supabase-Dark.svg" width="46" height="46" alt="Supabase" title="Supabase" />
 </p>
 
+<p align="center"><sub>Core focus: PHP · Laravel · PostgreSQL · Eloquent ORM · REST APIs · Pest feature tests</sub></p>
+</details>
+
+<details open>
+<summary><b>Frontend &amp; Web</b> — React, TypeScript, Next.js, Tailwind</summary>
+
 <p align="center">
-  <sub>Stats reflect what the public GitHub APIs expose. Most of my current engineering projects are private, so visible statistics do not represent all work.</sub>
+  <img src="./assets/skills/TypeScript.svg" width="46" height="46" alt="TypeScript" title="TypeScript" />
+  <img src="./assets/skills/JavaScript.svg" width="46" height="46" alt="JavaScript" title="JavaScript" />
+  <img src="./assets/skills/React-Dark.svg" width="46" height="46" alt="React" title="React" />
+  <img src="./assets/skills/NextJS-Dark.svg" width="46" height="46" alt="NextJS" title="NextJS" />
+  <img src="./assets/skills/TailwindCSS-Dark.svg" width="46" height="46" alt="TailwindCSS" title="TailwindCSS" />
+  <img src="./assets/skills/HTML.svg" width="46" height="46" alt="HTML" title="HTML" />
+  <img src="./assets/skills/CSS.svg" width="46" height="46" alt="CSS" title="CSS" />
+  <img src="./assets/skills/Vite-Dark.svg" width="46" height="46" alt="Vite" title="Vite" />
+</p>
+
+<p align="center"><sub>React · TypeScript · JavaScript · Next.js · Tailwind CSS · HTML · CSS · Vite</sub></p>
+</details>
+
+<details open>
+<summary><b>Developer Tools</b> — Git, GitHub, Postman, VS Code</summary>
+
+<p align="center">
+  <img src="./assets/skills/Git.svg" width="46" height="46" alt="Git" title="Git" />
+  <img src="./assets/skills/Github-Dark.svg" width="46" height="46" alt="Github" title="Github" />
+  <img src="./assets/skills/Postman.svg" width="46" height="46" alt="Postman" title="Postman" />
+  <img src="./assets/skills/VSCode-Dark.svg" width="46" height="46" alt="VSCode" title="VSCode" />
+</p>
+
+<p align="center"><sub>Git branches · pull requests · code reviews · automated testing · API inspection</sub></p>
+</details>
+
+<sub>Tools I use or am learning—not a claim of expert proficiency in everything shown.</sub>
+
+### ⚙️ What I Bring
+
+```typescript
+const engineeringMindset = {
+  startWith: "understand the problem and domain",
+  designFor: ["correctness", "clarity", "failure cases"],
+  buildWith: ["small changes", "tests", "code review"],
+  measureBy: "working software and verified behavior",
+  keepDoing: "learning from real feedback",
+} as const;
+```
+
+I'm building strong **backend engineering judgment**, while continuing to care about the quality and usability of the full product.
+
+### 📊 GitHub Activity
+
+My primary projects are currently private, so public repository and language charts would not show the full picture. GitHub's native contribution calendar below this README is the best place to see the activity my account is configured to share.
+
+<p align="center">
+  <a href="https://github.com/IAM707?tab=overview"><b>View activity</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/IAM707?tab=repositories"><b>Public repositories</b></a>
 </p>
 
 ---
 
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/v3-footer-mobile.svg">
-  <img src="./assets/v3-footer.svg" alt="Build thoughtfully. Test deliberately. Keep learning. Abdulrahman Banafea." width="100%">
-</picture>
-
-<p align="center"><a href="https://www.linkedin.com/in/abdulrahman-banafea-a7237034a/">LinkedIn</a> · <a href="mailto:abdulrahmanba707@gmail.com">Email</a></p>
+<p align="center"><b>Build thoughtfully. Test deliberately. Keep improving.</b></p>
+<p align="center"><sub>Abdulrahman Banafea · Jeddah, Saudi Arabia</sub></p>
