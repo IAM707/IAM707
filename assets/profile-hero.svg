@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="375" viewBox="0 0 1200 375" role="img" aria-label="Abdulrahman Banafea, backend-focused developer and software engineering intern at Salla"><title>Abdulrahman Banafea, backend-focused developer and software engineering intern at Salla</title><defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#384448" stroke-width=".65"/></pattern><radialGradient id="glow"><stop stop-color="#83D7A3"/><stop offset="1" stop-color="#83D7A3" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="375" rx="24" fill="#0D1319"/>
+<rect x="1" y="1" width="1198" height="373" rx="23" fill="none" stroke="#2D3940"/>
+<rect x="0" y="0" width="7" height="375" fill="#B7F28C"/>
+<rect x="8" y="0" width="1" height="375" fill="#486053"/>
+<g opacity=".29"><rect x="20" y="12" width="1160" height="350" fill="url(#grid)"/></g>
+<circle cx="1140" cy="70" r="179" fill="url(#glow)" opacity=".24"/>
+<rect x="46" y="38" width="49" height="34" rx="9" fill="#C1F19B" stroke="none" stroke-width="1"/>
+<text x="58" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" letter-spacing="-1" fill="#112018" >AB</text>
+<text x="109" y="61" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2.1" fill="#B9C7C2" >/ ENGINEERING PROFILE</text>
+<circle cx="1162" cy="52" r="5" fill="#B7F28C"/>
+<text x="1001" y="57" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2" fill="#C7D2CE" >JEDDAH · SA</text>
+<text x="46" y="145" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2.5" fill="#F4F6F2" >Abdulrahman</text>
+<text x="46" y="213" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="750" letter-spacing="-2.5" fill="#F4F6F2" >Banafea.</text>
+<rect x="47" y="245" width="311" height="39" rx="9" fill="#21332A" stroke="#3E5D47" stroke-width="1"/>
+<text x="64" y="271" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="750" letter-spacing="1.2" fill="#C9F2B2" >BACKEND-FOCUSED DEVELOPER</text>
+<line x1="47" y1="306" x2="731" y2="306" stroke="#384348" stroke-width="1" />
+<text x="47" y="337" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#BCCAC5" >PHP / LARAVEL</text>
+<circle cx="228" cy="333" r="3" fill="#B7F28C"/>
+<text x="244" y="337" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#BCCAC5" >REACT / TYPESCRIPT</text>
+<circle cx="434" cy="333" r="3" fill="#B7F28C"/>
+<text x="450" y="337" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" fill="#BCCAC5" >BUILD · TEST · REVIEW</text>
+<rect x="777" y="92" width="381" height="241" rx="16" fill="#141D23" stroke="#46535A" stroke-width="1"/>
+<rect x="777" y="92" width="381" height="43" rx="16" fill="#1C292F" stroke="none" stroke-width="1"/>
+<rect x="777" y="113" width="381" height="22" fill="#1C292F"/>
+<circle cx="801" cy="112" r="5" fill="#B67569"/><circle cx="817" cy="112" r="5" fill="#D9B977"/><circle cx="833" cy="112" r="5" fill="#B7F28C"/>
+<text x="991" y="116" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="500" letter-spacing="0.6" fill="#B2C3BC" >now / active</text>
+<text x="800" y="166" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="650" letter-spacing="0" fill="#C1F19B" >$  focus --current</text>
+<text x="800" y="199" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="0" fill="#F3F5F2" >01  Engineering intern</text>
+<text x="829" y="221" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" letter-spacing="0" fill="#AABAB4" >Salla · merchant problems</text>
+<text x="800" y="253" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="0" fill="#F3F5F2" >02  Independent OMS</text>
+<text x="829" y="275" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" letter-spacing="0" fill="#AABAB4" >Private · Laravel / backend</text>
+<text x="800" y="307" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="0" fill="#F3F5F2" >03  MAJRA Studio</text>
+<text x="1081" y="307" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="0" fill="#B7F28C" >private</text>
+</svg>
