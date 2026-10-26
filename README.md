@@ -19,24 +19,18 @@
 
 ### 👋 About Me
 
-<table>
-<tr>
+<table><tr>
 <td width="57%" valign="middle">
-
-I'm **Abdulrahman**, a software engineering student and backend-focused developer in Jeddah, Saudi Arabia.
-
-I care about more than making code run. I want to understand the domain, solve real problems, and know how a system behaves when something goes wrong.
-
-- **At Salla:** working with an engineering team on real merchant problems.
-- **Independently:** building a Laravel Order Management System to practice backend engineering end to end.
-- **Beyond backend:** developing **MAJRA Studio**, a Saudi digital-studio project focused on business websites and useful web functionality.
-
+<p>I'm <strong>Abdulrahman</strong>, a software engineering student and backend-focused developer in Jeddah, Saudi Arabia.</p>
+<p>I care about more than making code run. I want to understand the domain, solve real problems, and know how a system behaves when something goes wrong.</p>
+<ul>
+<li><strong>At Salla:</strong> working with an engineering team on real merchant problems.</li>
+<li><strong>Independently:</strong> building a Laravel Order Management System to practice backend engineering end to end.</li>
+<li><strong>Beyond backend:</strong> developing <strong>MAJRA Studio</strong>, a Saudi digital-studio project focused on business websites and useful web functionality.</li>
+</ul>
 </td>
-<td width="43%" valign="middle">
-  <img src="./assets/developer-workspace.svg" alt="Illustration of a developer at a desk, editing Laravel code" width="100%" />
-</td>
-</tr>
-</table>
+<td width="43%" valign="middle"><img src="./assets/developer-workspace.svg" alt="Illustration of a developer at a desk, editing Laravel code" width="100%" /></td>
+</tr></table>
 
 ### 💼 Current Role & Experience
 
@@ -57,7 +51,7 @@ I care about more than making code run. I want to understand the domain, solve r
 flowchart LR
     A["Salla internship<br/>3 months completed"] --> B["Engineering team<br/>Merchant problems"]
     A --> C["Independent OMS<br/>Laravel backend"]
-    C -. "planned" .-> D["Senior engineer<br/>technical review"]
+    C -. planned .-> D["Senior engineer<br/>technical review"]
     classDef active fill:#193741,color:#f4f7f7,stroke:#6998a2,stroke-width:1px;
     classDef future fill:#302a23,color:#f4e9d7,stroke:#bd9a66,stroke-width:1px;
     class A,B,C active;
@@ -68,40 +62,24 @@ flowchart LR
 
 ### 🧩 Selected Work
 
-<table>
-<tr>
+<table><tr>
 <td width="50%" valign="top">
-
-#### 01 · Order Management System
-
-`PRIVATE` · `IN DEVELOPMENT`
-
-An independent Laravel backend project to understand how business systems are modeled, implemented, and maintained.
-
-**Working on:** domain models, orders, database constraints, feature tests, and system design.
-
-**Next:** integrations, reliability, asynchronous work, and senior technical feedback.
-
-**Stack:** `PHP` `Laravel` `PostgreSQL` `Pest`
-
+<h4>01 · Order Management System</h4>
+<p><code>PRIVATE</code> · <code>IN DEVELOPMENT</code></p>
+<p>An independent Laravel backend project to understand how business systems are modeled, implemented, and maintained.</p>
+<p><strong>Working on:</strong> domain models, orders, database constraints, feature tests, and system design.</p>
+<p><strong>Next:</strong> integrations, reliability, asynchronous work, and senior technical feedback.</p>
+<p><code>PHP</code> <code>Laravel</code> <code>PostgreSQL</code> <code>Pest</code></p>
 </td>
 <td width="50%" valign="top">
-
-#### 02 · MAJRA Studio
-
-`PRIVATE` · `IN DEVELOPMENT`
-
-A Saudi digital-studio project focused on distinctive yet practical websites for established businesses.
-
-**Focus:** bespoke business websites, CMS, Arabic-first interfaces, and focused integrations.
-
-**Approach:** thoughtful UI/UX supported by working, useful functionality.
-
-**Stack:** `React` `TypeScript` `Web Engineering`
-
+<h4>02 · MAJRA Studio</h4>
+<p><code>PRIVATE</code> · <code>IN DEVELOPMENT</code></p>
+<p>A Saudi digital-studio project focused on distinctive yet practical websites for established businesses.</p>
+<p><strong>Focus:</strong> bespoke business websites, CMS, Arabic-first interfaces, and focused integrations.</p>
+<p><strong>Approach:</strong> thoughtful UI/UX supported by working, useful functionality.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Web Engineering</code></p>
 </td>
-</tr>
-</table>
+</tr></table>
 
 > Both repositories are private. No employer code, merchant information, or internal business data is shared here.
 
