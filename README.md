@@ -1,37 +1,53 @@
-# Abdulrahman Banafea
+<!-- A self-hosted visual profile. All artwork lives in ./assets and works without external widget APIs. -->
 
-**Software Engineering Student · Backend-Focused Developer**  
-Jeddah, Saudi Arabia
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg">
+  <img src="./assets/profile-hero.svg" alt="Abdulrahman Banafea — backend-focused developer. PHP, Laravel, React and TypeScript. Based in Jeddah, Saudi Arabia." width="100%">
+</picture>
 
-I build software with an emphasis on clear domain models, dependable backend systems, and thoughtful user experiences. My current focus is growing as a backend engineer through real-world problem solving, hands-on projects, testing, and code review.
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulrahman-banafea-a7237034a/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:abdulrahmanba707@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/IAM707">GitHub</a>
+</p>
 
-### Currently
+I’m a **software engineering student and backend-focused developer** building practical systems with careful domain modeling, clean APIs, and tests. I enjoy connecting engineering decisions to real product needs.
 
-**Software Engineering Intern · Salla**  
-Working alongside a team on real problems affecting merchants, gaining practical experience in investigating issues, understanding existing systems, and delivering maintainable solutions.
+### Current chapter
 
-**Order Management System (OMS) · Private, in development**  
-Independently building a Laravel-based OMS to practice software design and backend engineering. The work focuses on order and customer data, relational modeling, business rules, APIs, and automated tests, with integration and reliability work on the roadmap. I plan to have the project evaluated by a senior engineer.
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-salla-mobile.svg">
+  <img src="./assets/profile-salla.svg" alt="Salla software engineering internship — three months completed and continuing. Working alongside a team to investigate and solve real merchant problems." width="100%">
+</picture>
 
-**MAJRA Studio · Private, in development**  
-Building a Saudi digital studio focused on tailored business websites and web solutions—bringing together product thinking, Arabic-first experiences, design, and engineering.
+### Selected work
 
-### Technical Stack
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-projects-mobile.svg">
+  <img src="./assets/profile-projects.svg" alt="Private projects in development: an independent Laravel Order Management System for backend engineering practice, and MAJRA Studio for tailored business websites and web solutions." width="100%">
+</picture>
 
-| Area | Technologies & Practices |
-| --- | --- |
-| **Backend** | PHP, Laravel, REST APIs, Eloquent ORM |
-| **Frontend** | TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS |
-| **Data** | PostgreSQL, SQL, Supabase |
-| **Testing & Tools** | Pest, Laravel feature tests, Git, GitHub, Composer, Postman |
-| **Engineering** | Relational data modeling, API design, debugging, automated testing, pull requests, code review |
+**OMS** — Independently building an Order Management System to strengthen backend engineering skills across relational data modeling, domain behavior, APIs, and automated testing. Planning to seek a senior engineer's technical evaluation.
 
-### How I Work
+**MAJRA Studio** — Building an independent Saudi digital studio focused on well-designed, useful websites and tailored web functionality for businesses.
 
-I prefer understanding the problem and its constraints before choosing an implementation. I aim to keep changes small and reviewable, test important behavior, document decisions, and learn from feedback.
+<sub>Both projects are in development and their repositories are private. No employer code, internal details, or merchant data are shared here.</sub>
 
-> The OMS and MAJRA repositories are currently private. Descriptions here cover my own work and do not disclose employer code or merchant information.
+### Technical toolkit
 
-### Connect
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-stack-mobile.svg">
+  <img src="./assets/profile-stack.svg" alt="Technical toolkit — Backend: PHP, Laravel, PostgreSQL, Pest and REST APIs. Frontend: React, TypeScript, Next.js, JavaScript and Tailwind CSS. Workflow: Git, GitHub, Composer, automated testing, pull requests and code review." width="100%">
+</picture>
 
-[LinkedIn](https://www.linkedin.com/in/abdulrahman-banafea-a7237034a/) · [Email](mailto:abdulrahmanba707@gmail.com)
+### Engineering mindset
+
+**Understand the problem → Model the domain → Build incrementally → Test the behavior → Review the trade-offs.**
+
+I’m currently focused on developing sound backend engineering judgment through hands-on work, technical feedback, and reliable implementations.
+
+<p align="center">
+  <sub>Made with custom, self-hosted SVG artwork · No third-party stat widgets · Updated as my work evolves</sub>
+</p>
