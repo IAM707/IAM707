@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="Private projects: independent Order Management System and MAJRA Studio, both in development"><title>Private projects: independent Order Management System and MAJRA Studio, both in development</title>
+<rect x="0" y="0" width="584" height="310" rx="20" fill="#19232D" stroke="#40505A" stroke-width="1"/>
+<rect x="616" y="0" width="584" height="310" rx="20" fill="#EEECE4" stroke="#D5D0C3" stroke-width="1"/>
+<text x="32" y="39" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.9" fill="#B2E5A8" >02 / SOFTWARE SYSTEMS</text>
+<rect x="421" y="19" width="133" height="28" rx="14" fill="#334335" stroke="#4A6A4F" stroke-width="1"/>
+<text x="445" y="38" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="750" letter-spacing="0.6" fill="#CBF4B4" >PRIVATE · WIP</text>
+<text x="32" y="96" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="740" letter-spacing="-0.8" fill="#F1F5F1" >Order Management</text>
+<text x="32" y="134" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="740" letter-spacing="-0.8" fill="#F1F5F1" >System</text>
+<text x="32" y="175" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" letter-spacing="0" fill="#BED0C9" >Independent Laravel backend project.</text>
+<text x="32" y="201" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" letter-spacing="0" fill="#BED0C9" >Domain modeling, APIs and testing.</text>
+<rect x="32" y="236" width="520" height="49" rx="12" fill="#101B22" stroke="#3F4D50" stroke-width="1"/>
+<text x="48" y="266" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650" letter-spacing="0" fill="#D7E6DE" >Orders</text>
+<line x1="122" y1="260" x2="164" y2="260" stroke="#91B9A3" stroke-width="2" /><path d="M156 254l8 6-8 6" stroke="#91B9A3" stroke-width="2" fill="none"/>
+<text x="182" y="266" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650" letter-spacing="0" fill="#D7E6DE" >Business rules</text>
+<line x1="303" y1="260" x2="346" y2="260" stroke="#91B9A3" stroke-width="2" /><path d="M338 254l8 6-8 6" stroke="#91B9A3" stroke-width="2" fill="none"/>
+<text x="369" y="266" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650" letter-spacing="0" fill="#B9F0A1" >Verification</text>
+<text x="648" y="39" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.9" fill="#8A6443" >03 / DIGITAL PRODUCTS</text>
+<rect x="1032" y="19" width="137" height="28" rx="14" fill="#E1DACC" stroke="#CFC3B3" stroke-width="1"/>
+<text x="1052" y="38" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="750" letter-spacing="0.6" fill="#785740" >PRIVATE · WIP</text>
+<text x="648" y="96" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="760" letter-spacing="-1" fill="#252B27" >MAJRA</text>
+<text x="648" y="134" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="760" letter-spacing="-1" fill="#252B27" >Studio</text>
+<text x="648" y="175" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" letter-spacing="0" fill="#4E514D" >Independent Saudi digital studio.</text>
+<text x="648" y="201" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" letter-spacing="0" fill="#4E514D" >Thoughtful business websites and tools.</text>
+<rect x="648" y="236" width="520" height="49" rx="12" fill="#E4DFD3" stroke="#CFC7B8" stroke-width="1"/>
+<text x="668" y="266" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650" letter-spacing="0" fill="#4C4B42" >Strategy</text>
+<line x1="746" y1="260" x2="789" y2="260" stroke="#98816A" stroke-width="2" /><path d="M781 254l8 6-8 6" stroke="#98816A" stroke-width="2" fill="none"/>
+<text x="809" y="266" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650" letter-spacing="0" fill="#4C4B42" >Design</text>
+<line x1="875" y1="260" x2="920" y2="260" stroke="#98816A" stroke-width="2" /><path d="M912 254l8 6-8 6" stroke="#98816A" stroke-width="2" fill="none"/>
+<text x="940" y="266" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="650" letter-spacing="0" fill="#4C4B42" >Engineering</text>
+</svg>
