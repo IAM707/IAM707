@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1100&color=42D3A6&center=true&vCenter=true&width=800&lines=Engineering+with+PHP+%26+Laravel;Solving+Merchant+Problems+at+Salla;Building+an+Independent+OMS;React+%2B+TypeScript+%2B+Product+Thinking)](https://git.io/typing-svg)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,100:166534&height=210&section=header&text=Abdulrahman%20Banafea&fontSize=43&fontAlignY=39&fontColor=ffffff&desc=Software%20Engineering%20Intern%20%7C%20Backend%20Focused&descAlignY=59&descSize=17&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1100&color=42D3A6&center=true&vCenter=true&width=800&lines=Engineering+with+PHP+%26+Laravel;Solving+Merchant+Problems+at+Salla;Building+an+Independent+OMS;React+%2B+TypeScript+%2B+Product+Thinking)](https://git.io/typing-svg)
 
 </div>
 
