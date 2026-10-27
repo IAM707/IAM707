@@ -97,6 +97,24 @@ I focus on understanding how software behaves, especially when something goes wr
 
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IAM707/IAM707/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IAM707/IAM707/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/IAM707/IAM707/output/github-snake-dark.svg" alt="Animated contribution snake generated from IAM707's GitHub contribution calendar" width="98%">
+  </picture>
+</div>
+
+### 🌆 3D Contribution City
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D visualization generated from IAM707's GitHub contribution calendar" width="98%">
+</div>
+
+<sub>These animations are generated from available GitHub contribution data and refreshed by GitHub Actions. Private repository details are not disclosed.</sub>
+
 <sub>Public statistics do not capture every contribution made to private projects.</sub>
 
 ---
