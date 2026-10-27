@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="475" viewBox="0 0 620 475" role="img" aria-label="Abdulrahman Banafea backend-focused engineering profile"><title>Abdulrahman Banafea backend-focused engineering profile</title><defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C141A"/><stop offset=".55" stop-color="#142329"/><stop offset="1" stop-color="#0B1319"/></linearGradient><linearGradient id="field" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1D523E"/><stop offset="1" stop-color="#2D7655"/></linearGradient><pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#93B5AB" opacity=".18"/></pattern></defs><style>.signal{animation:dash 11s linear infinite}.lamp{animation:breathe 3s ease-in-out infinite}@keyframes dash{to{stroke-dashoffset:-112}}@keyframes breathe{50%{opacity:.3}}@media(prefers-reduced-motion:reduce){.signal,.lamp{animation:none}}</style>
+<rect x="0" y="0" width="620" height="475" rx="18" fill="url(#paper)" stroke="none"/><rect x="0" y="0" width="620" height="475" rx="18" fill="url(#dots)" stroke="none"/>
+<rect x="24" y="26" width="26" height="26" rx="5" fill="#B8E9C4" stroke="none"/><text x="31" y="44" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="800" letter-spacing="0" fill="#10241C" >A</text>
+<text x="62" y="44" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="690" letter-spacing="1.4" fill="#B4CEC4" >IAM707  /  ENGINEERING</text>
+<text x="26" y="114" font-family="Inter,Arial,sans-serif" font-size="54" font-weight="770" letter-spacing="-2" fill="#F7FAF5" >ABDULRAHMAN</text>
+<text x="26" y="176" font-family="Inter,Arial,sans-serif" font-size="73" font-weight="780" letter-spacing="-3" fill="#F7FAF5" >BANAFEA</text>
+<text x="27" y="217" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="530" letter-spacing="0" fill="#D3E9DF" >Software engineering intern @ Salla</text>
+<text x="27" y="249" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="510" letter-spacing="0" fill="#AAC6BA" >Backend-focused  /  Product thinking</text>
+<path d="M0 284H620V475H0Z" fill="url(#field)" opacity=".93"/>
+<text x="27" y="322" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="750" letter-spacing="2" fill="#D5F8E7" >ENGINEERING LOOP</text>
+<path class="signal" d="M107 385H495" stroke="#CAF5DD" fill="none" stroke-width="2.4" stroke-dasharray="8 6"/>
+<rect x="30" y="358" width="160" height="48" rx="10" fill="#16412F" stroke="#8DBAA0"/><text x="49" y="389" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="760" letter-spacing="0" fill="#E4FFE9" >PROBLEM</text>
+<rect x="224" y="358" width="170" height="48" rx="10" fill="#16412F" stroke="#8DBAA0"/><text x="254" y="389" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="760" letter-spacing="0" fill="#E4FFE9" >SYSTEM</text>
+<rect x="422" y="358" width="168" height="48" rx="10" fill="#16412F" stroke="#8DBAA0"/><text x="458" y="389" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="760" letter-spacing="0" fill="#E4FFE9" >PROOF</text>
+<text x="28" y="449" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="680" letter-spacing="0" fill="#D8F3E0" >PHP / LARAVEL   •   REACT / TYPESCRIPT</text>
+</svg>
