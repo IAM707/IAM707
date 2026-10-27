@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="350" viewBox="0 0 1100 350" role="img" aria-label="Abdulrahman Banafea, software engineering student, backend-focused developer and Salla intern"><title>Abdulrahman Banafea, software engineering student, backend-focused developer and Salla intern</title><defs><linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C141A"/><stop offset=".52" stop-color="#142329"/><stop offset="1" stop-color="#0B1319"/></linearGradient><linearGradient id="field" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1E513F"/><stop offset="1" stop-color="#367D5E"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1"><stop stop-color="#79E5B0"/><stop offset="1" stop-color="#BAE6D5" stop-opacity=".18"/></linearGradient><pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.8" fill="#93B5AB" opacity=".18"/></pattern><clipPath id="trim"><rect width="1100" height="350" rx="18"/></clipPath></defs><style>.signal{animation:dash 11s linear infinite}.lamp{animation:breathe 3s ease-in-out infinite}@keyframes dash{to{stroke-dashoffset:-112}}@keyframes breathe{50%{opacity:.3}}@media(prefers-reduced-motion:reduce){.signal,.lamp{animation:none}}</style>
+<rect x="0" y="0" width="1100" height="350" rx="18" fill="url(#paper)" stroke="none"/>
+<rect x="0" y="0" width="1100" height="350" rx="18" fill="url(#dots)" stroke="none"/>
+<path d="M710 0H1100V350H920C826 300 768 184 710 0Z" fill="url(#field)" opacity=".92"/>
+<path d="M695 0C762 140 803 253 922 350" fill="none" stroke="#91E4BC" stroke-width="1.3" opacity=".75"/>
+<rect x="38" y="30" width="25" height="25" rx="5" fill="#B8E9C4" stroke="none"/><text x="44" y="47" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="0" fill="#10241C" >A</text>
+<text x="76" y="48" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B4CEC4" >IAM707  /  ENGINEERING NOTES</text>
+<text x="38" y="128" font-family="Inter,Arial,sans-serif" font-size="61" font-weight="770" letter-spacing="-2.5" fill="#F7FAF5" >ABDULRAHMAN</text>
+<text x="38" y="205" font-family="Inter,Arial,sans-serif" font-size="87" font-weight="780" letter-spacing="-3" fill="#F7FAF5" >BANAFEA</text>
+<path d="M40 229H593" stroke="#547067" stroke-width="1"/>
+<text x="40" y="263" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="520" letter-spacing="0" fill="#D3E9DF" >Software engineering intern at Salla</text>
+<text x="40" y="294" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="500" letter-spacing="0" fill="#9CB9AE" >Backend-focused  /  Full-product thinking</text>
+<text x="40" y="330" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="730" letter-spacing="1.6" fill="#8CE3B2" >PHP + LARAVEL</text>
+<circle cx="196" cy="325" r="3" fill="#6F978F"/><text x="212" y="330" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="730" letter-spacing="1.4" fill="#A5D3C3" >REACT + TYPESCRIPT</text>
+<text x="899" y="39" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="750" letter-spacing="1.4" fill="#CEEFDC" >SYSTEMS / 01</text>
+<g fill="none" stroke="#BEF2D8" opacity=".58" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<path class="signal" d="M776 113H885V145H992V194H910V242H1017" stroke-dasharray="8 6"/>
+<path d="M885 145V204H809" opacity=".5"/>
+</g>
+<rect x="752" y="92" width="150" height="45" rx="9" fill="#163729" stroke="#6FBA95"/><text x="770" y="120" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="750" letter-spacing="1" fill="#E4FFE9" >PROBLEM</text>
+<rect x="929" y="174" width="135" height="44" rx="9" fill="#133326" stroke="#6FBA95"/><text x="947" y="201" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="750" letter-spacing="1" fill="#E4FFE9" >SYSTEM</text>
+<rect x="763" y="226" width="135" height="44" rx="9" fill="#123124" stroke="#6FBA95"/><text x="788" y="254" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="750" letter-spacing="1" fill="#E4FFE9" >PROOF</text>
+<circle class="lamp" cx="885" cy="145" r="5" fill="#D9F7C9"/>
+<circle cx="910" cy="242" r="4" fill="#D9F7C9"/>
+<text x="752" y="313" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="730" letter-spacing="2" fill="#D6F5E4" >BUILD  •  TEST  •  LEARN</text>
+</svg>
