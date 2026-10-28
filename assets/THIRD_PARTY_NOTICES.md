@@ -91,3 +91,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+## Additional technology icon sources
+
+- **Composer**: `assets/skills/Composer.svg`, adapted from the Composer logo at https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg (Devicon, MIT license, copyright © 2015 konpa and contributors).
+- **Pest**: `assets/skills/Pest.svg`, from the official Pest logomark at https://github.com/pestphp/pestphp.com/blob/main/public/logo/logomark-white.svg. Pest name and logo belong to their respective owners.
+- **REST APIs**: `assets/skills/RestAPI.svg`, based on Lucide's `network` icon at https://github.com/lucide-icons/lucide/blob/main/icons/network.svg (ISC license, Lucide contributors).
+
+The extra icons were placed on the same dark rounded tile as the existing MIT-licensed Skill Icons artwork. All icons are for identifying technologies, not endorsements.
