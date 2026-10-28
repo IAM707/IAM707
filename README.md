@@ -113,6 +113,7 @@ I'm a software engineering student, currently working with a team on real mercha
 <p align="center">
   <img src="./assets/skills/PHP-Dark.svg" width="55" height="55" alt="PHP logo" title="PHP">
   <img src="./assets/skills/Laravel-Dark.svg" width="55" height="55" alt="Laravel logo" title="Laravel">
+  <img src="./assets/skills/TypeScript.svg" width="55" height="55" alt="TypeScript logo" title="TypeScript">
   <img src="./assets/skills/PostgreSQL-Dark.svg" width="55" height="55" alt="PostgreSQL logo" title="PostgreSQL">
   <img src="./assets/skills/RestAPI.svg" width="55" height="55" alt="REST APIs logo" title="REST APIs">
   <img src="./assets/skills/Pest.svg" width="55" height="55" alt="Pest testing logo" title="Pest testing">
