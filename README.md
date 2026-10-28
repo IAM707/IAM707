@@ -105,25 +105,41 @@ I'm a software engineering student, currently working with a team on real mercha
 
 ## 🛠️ **TECH STACK & TOOLS**
 
+<!-- Each tool is represented only by its logo. Original sources and licenses: assets/THIRD_PARTY_NOTICES.md -->
 <div align="center">
 
+### ⚙️ Backend & Databases
 
-<!-- Moving logos from Anmol-Baranwal/Cool-GIFs-For-GitHub; see licensing notices. -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="62" height="62" alt="Animated developer logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="62" height="62" alt="Animated technology logo" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="62" height="62" alt="Animated programming icon" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="62" height="62" alt="Animated web technology icon" />
+  <img src="./assets/skills/PHP-Dark.svg" width="55" height="55" alt="PHP logo" title="PHP">
+  <img src="./assets/skills/Laravel-Dark.svg" width="55" height="55" alt="Laravel logo" title="Laravel">
+  <img src="./assets/skills/PostgreSQL-Dark.svg" width="55" height="55" alt="PostgreSQL logo" title="PostgreSQL">
+  <img src="./assets/skills/RestAPI.svg" width="55" height="55" alt="REST APIs logo" title="REST APIs">
+  <img src="./assets/skills/Pest.svg" width="55" height="55" alt="Pest testing logo" title="Pest testing">
 </p>
 
-### ⚙️ Backend & Databases
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/PostgreSQL-4169A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/REST_APIs-334155?style=for-the-badge&logoColor=white" alt="REST APIs" /> <img src="https://img.shields.io/badge/Pest_Testing-7654A3?style=for-the-badge&logoColor=white" alt="Pest Testing" /> 
-
 ### 🎨 Frontend & Web
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Next.js-0F1011?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+<p align="center">
+  <img src="./assets/skills/React-Dark.svg" width="55" height="55" alt="React logo" title="React">
+  <img src="./assets/skills/TypeScript.svg" width="55" height="55" alt="TypeScript logo" title="TypeScript">
+  <img src="./assets/skills/JavaScript.svg" width="55" height="55" alt="JavaScript logo" title="JavaScript">
+  <img src="./assets/skills/NextJS-Dark.svg" width="55" height="55" alt="Next.js logo" title="Next.js">
+  <img src="./assets/skills/TailwindCSS-Dark.svg" width="55" height="55" alt="Tailwind CSS logo" title="Tailwind CSS">
+  <img src="./assets/skills/HTML.svg" width="55" height="55" alt="HTML5 logo" title="HTML5">
+  <img src="./assets/skills/CSS.svg" width="55" height="55" alt="CSS3 logo" title="CSS3">
+</p>
 
 ### 🔧 Developer Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> 
+
+<p align="center">
+  <img src="./assets/skills/Git.svg" width="55" height="55" alt="Git logo" title="Git">
+  <img src="./assets/skills/Github-Dark.svg" width="55" height="55" alt="GitHub logo" title="GitHub">
+  <img src="./assets/skills/Postman.svg" width="55" height="55" alt="Postman logo" title="Postman">
+  <img src="./assets/skills/VSCode-Dark.svg" width="55" height="55" alt="VS Code logo" title="VS Code">
+  <img src="./assets/skills/Composer.svg" width="55" height="55" alt="Composer logo" title="Composer">
+  <img src="./assets/skills/Supabase-Dark.svg" width="55" height="55" alt="Supabase logo" title="Supabase">
+</p>
 
 </div>
 
