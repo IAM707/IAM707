@@ -26,6 +26,13 @@ const abdulrahman = {
 
 I'm a software engineering student, currently working with a team on real merchant problems at **Salla**, while building a private Laravel OMS independently to improve my backend and system-design skills.
 
+<!-- Animation credit: Anmol Baranwal / Cool-GIFs-For-GitHub (Work with Coffee). -->
+<p align="center">
+  <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
+    <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="430" alt="Developer relaxing with coffee while coding at a computer setup" />
+  </a>
+</p>
+
 ---
 
 ## 💼 **CURRENT ROLES**
